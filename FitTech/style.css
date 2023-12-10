@@ -1,0 +1,51 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: green;
+}
+header{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+main{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.gp img{
+    width: 1000px;
+    height: 500px;
+    margin-left: 150px;
+}
+.resumo{
+    width: 100%;
+    text-align: center;
+}
+
+.res{
+    margin: auto;
+    width: 1000px;
+    text-align: center;
+}
+.fotos img{
+    width: 900px;
+    height: 500px;
+}
+legend{
+    font-size: large;
+    font-weight: bolder;
+    margin: 5px;
+}
+.metodologia ul, h4{
+    text-align: left;
+}
+.expotec img{
+    width: 1000px;
+    height: 900px;
+}
+.sobre{
+    background-color: rgba(255, 255, 255, 0.521);
+    height: 300px;
+}
+
